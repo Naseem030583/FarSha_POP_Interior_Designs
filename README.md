@@ -32,18 +32,6 @@ Visit: [https://Naseem030583.github.io/farsha-website/](https://Naseem030583.git
   - Cove Ceiling with LED
   - Geometric Patterns
 
-- **Wall Painting & Design**
-  - Texture Painting
-  - Metallic Finishes
-  - Stencil Designs
-  - Freehand Art
-
-- **Lighting Integration**
-  - LED Strip Lighting
-  - Recessed Spotlights
-  - Cove Lighting
-  - Designer Fixtures
-
 ## 💻 Technologies Used
 
 - HTML5
