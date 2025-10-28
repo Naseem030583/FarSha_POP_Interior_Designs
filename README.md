@@ -6,8 +6,6 @@ A modern, responsive website for FarSha Interior Design company, specializing in
 
 Visit: [https://Naseem030583.github.io/farsha-website/](https://Naseem030583.github.io/farsha-website/)
 
-*(Replace YOUR-USERNAME with your GitHub username)*
-
 ## ✨ Features
 
 - 📱 **Fully Responsive** - Works perfectly on desktop, tablet, and mobile
