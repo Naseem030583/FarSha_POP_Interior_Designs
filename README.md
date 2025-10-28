@@ -94,8 +94,8 @@ farsha-website/
 ## 📞 Contact Information
 
 - **Phone:** +91-9557760782
-- **Email:** info@farsha.com
-- **Location:** Agra, Uttar Pradesh, India
+- **Email:** farsha032019@gmail.com
+- **Location:** Muzaffar Nagar, Uttar Pradesh, India
 
 ## 🌟 Browser Support
 
